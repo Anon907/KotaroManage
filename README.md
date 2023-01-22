@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph//file/3174ab5b15fe99fc0822c.jpg">
+  <img src="https://telegra.ph/file/5cb7cde134e540ca1c441.jpg">
 </p>
 
 <h4><p align="center"> DHINO MUSIC-ROBOT </p></h4>
