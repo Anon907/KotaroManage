@@ -2,9 +2,9 @@
   <img src="https://telegra.ph/file/4b51acd036ea1f0f10272.jpg">
 </p>
 
-<h4><p align="center"> DHINO MUSIC-ROBOT </p></h4>
+<h4><p align="center"> ANON907 MANAGE </p></h4>
 
-<p align="center">DhinoMusic Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center">Anon Manage BOT is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 <p align="center">
 <a href="https://t.me/DhinoMusic_Bot"> <img src="https://img.shields.io/badge/Anon907-blue?&logo=telegram" alt="Anon907 on Telegram" /> </a><br>
